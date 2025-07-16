@@ -1,4 +1,4 @@
-# Greetings
+# Hello
 
-I am Gavin Crisp and this is my professional github.
-I am currently a student at 42school Adelaide, and that is likely the majority of what will be here.
+I am Gavin Crisp and this is my github repository.
+I was a student at 42school Adelaide, and that is likely the majority of what will be here.
